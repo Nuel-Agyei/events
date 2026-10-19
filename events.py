@@ -423,7 +423,7 @@ def generate_event_report():
         print(f"Event with Highest Active Ticket Sales: {highest_event} ({highest_sales} tickets)")
         print(f"Event with Lowest Active Ticket Sales: {lowest_event} ({lowest_sales} tickets)")
     else:
-        print("No active ticket sales found across any events yet.")
+        print("Tickets no dey")
 
 
 
